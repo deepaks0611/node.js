@@ -1,0 +1,15 @@
+What is Javascript?
+- 
+
+
+
+
+Node.Js 
+- Javascript runtime Environment
+
+Advantage of Node JS 
+- Run Js outside browser
+- Build web Servers with JS
+- Build CLI Tools with JS
+- Build IOS and Android apps with JS
+- Build IoT and watch apps with JS
